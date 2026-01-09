@@ -30,7 +30,7 @@ chmod +x *.sh
 | 'cleanup-cache.sh' | Чистка temp/cache  
 | 'vpn-toggle.sh' | VPN on/off 
 | 'update-arch.sh' | System-updater (dnf, zypper, arch, apt)
-
+i use arch btw
 ## Установка
 ```bash
 git clone https://github.com/Psqnn/everyday-linux-scripts.git
