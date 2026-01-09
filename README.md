@@ -1,8 +1,6 @@
-Everyday Linux Scripts
+## Everyday Linux Scripts
 
 **Простые скрипты для ежедневной жизни в Linux (EndeavourOS/Arch). Бэкап, мониторинг, VPN — всё в 1 команду!**  
-*Иркутск/Bайкал edition. Для новичков и pros.*
-
 
 ## ✨ Скрипты 
 | Скрипт | Что делает | 
