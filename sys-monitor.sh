@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "===  SYSTEM MONITOR ==="
+echo "====  SYSTEM MONITOR ===="
 echo " Uptime: $(uptime -p 2>/dev/null || echo 'N/A')"
 echo -n " CPU model: "; lscpu 2>/dev/null | grep -i 'model name' | sed 's/.*: *//' | head -c 60 || echo "N/A"
 echo ""
